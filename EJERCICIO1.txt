@@ -1,0 +1,833 @@
+<!DOCTYPEhtml>
+<html lang="es">
+<cabeza>
+<juego de caracteres meta="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<enlace rel="perfil" href="https://gmpg.org/xfn/11">
+
+<title>Despacho de Abogados – Creciendo Juntos</title>
+<meta name='robots' content='max-image-preview:large' />
+<enlace rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Despacho de Abogados » Feed" href="https://globaljuridicos.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Despacho de Abogados » Feed de los comentarios" href="https://globaljuridicos.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/sworg\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl" :"https:\/\/sworg\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https :\/\/globaljuridicos.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2"}};
+/*! Este archivo se genera automáticamente */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");función s(e,t){p .clearRect(0,0,i.ancho,i.alto),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.ancho,i. altura),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t. defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("bandera","emoji"),t.supports={todo :!0,todoExceptoFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline=" top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7 \ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40 \ UDC67 \ UDB40 \ UDC7F "," "\ UD833C \ UDFF4 \ U200B \ UDB40 \ UDC67 \ U200B \ UDB40 \ UDC62 \ U200B \ UDB40 \ UDC65 UDB40 \ UDC7F " );case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\ udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports .everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function() {t.DOMReady=!0},t.soporta.todo||(n=función(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)) :(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source|| {}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);twemoji&&(c(e.twemoji),c(e.wpemoji)))}(ventana,documento,ventana._wpemojiSettings);twemoji&&(c(e.twemoji),c(e.wpemoji)))}(ventana,documento,ventana._wpemojiSettings);
+</script>
+<estilo>
+img.wp-smiley,
+img.emoji {
+	pantalla: en línea! importante;
+	borde: ninguno !importante;
+	box-shadow: ninguno !importante;
+	altura: 1em !importante;
+	ancho: 1em !importante;
+	margen: 0 0.07em !importante;
+	vertical-align: -0.1em !importante;
+	fondo: ninguno !importante;
+	relleno: 0 !importante;
+}
+</estilo>
+	<enlace rel='hoja de estilo' id='astra-theme-css-css' href='https://globaljuridicos.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver =4.0.2' medios='todos' />
+<id de estilo='astra-theme-css-inline-css'>
+}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu . sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-theme-transparent-header [CLASS*="ast-header -html-"] .ast-builder-html-element{color:#ffffff;}.ast-theme-transparent-header .widget-area.header-widget-area .header-widget-area-inner{color:# ffffff;}.ast-theme-transparent-header .widget-area.header-widget-area. header-widget-area-inner{color:#ffffff;}.ast-theme-transparent-header [data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle- icono .ast-mobile-svg{fill:#ffffff;}.ast-theme-transparent-header [data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap . menú móvil{color:#ffffff;}.-row-tablet-3-equal .ast-builder-grid-row{grid-template-columns:repeat( 3,1fr );}}@media (max-width:544px){.site-primary-footer-wrap [data-section="section-primary-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-primary-footer- wrap[data-section="section-primary-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid -row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-primary-footer-wrap[data-section="section -primary-footer-builder"]{padding-top:104px;padding-bottom:80px;}@media (max-width:921px){.site-primary-footer-wrap[data-section="section-primary- footer-builder"]{padding-top:80px;padding-bottom:64px;padding-left:40px;padding-right:40px;}}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-primary -footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-primary-footer -wrap[data-section="section-primary-footer-builder"]{display:grid;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer- widget-area-inner{text-align:left;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget -area-inner{text-align:left;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget -area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] . footer-widget-area-inner a{color:#9a9a9a;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner a:hover{ color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;}@media (max-width:544px){ .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{font-size:18px;font-size:1.0588235294118rem;}}.footer-widget-area[ data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section ="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.elementor-widget-heading .elementor-heading-title{ margin:0;}.elementor-page .ast-menu-toggle{color:unset !important;background:unset !important;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}. woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li .product{width:auto;margin:0;float:none;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{ max-width:100%;left:0 !important;}.elementor-template-full-width .ast-container{display:block;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;} }.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px; }}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display: flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient :vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex- direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center ;-js-display:flex;display:flex;}.main-header-menu .sub-menu .menu-item.menu-item-has-child > .menu-link:after{position:absolute;right:1em ;arriba:50%;transformar:traducir(0,-50%) rotar(270grados);}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast- menu-toggle::before, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-child > .ast-menu-toggle::before, .ast -mobile-popup-drawer .main-header-bar-navigation .menu-item-has-child>.ast-menu-toggle::before, .ast-header-break-point .ast-mobile-header-wrap . navegación de la barra de encabezado principal .menu-item-has-child > .ast-menu-toggle::before{font-weight:bold;content:"\e900";font-family:Astra;text-decoration:inherit;display:inline-block;}.ast-header-break-point .main-navigation ul.sub-menu .menu-item .menu-link:before{content:" \e900";font-family:Astra;font-size:.65em;text-decoration:inherit;display:inline-block;transform:translate(0, -2px) rotateZ(270deg);margin-right:5px;} .widget_search .search-form:after{font-family:Astra;font-size:1.2em;font-weight:normal;content:"\e8b6";position:absolute;top:50%;right:15px;transform: translate(0, -50%);}.astra-search-icon::before{content:"\e8b6";font-family:Astra;font-style:normal;font-weight:normal;text-decoration:inherit ;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;z-index:3;}.main-header-bar .main-header-bar-navigation .page_item_has_children > a:después, .main-header-bar .main-header-bar-navigation .elemento-menú-tiene-hijos > a:después, .elemento-enfoque-encabezado-del-sitio .navegación-barra-del-encabezado-principal .elemento-menú-tiene-hijos > .menu-link:después{contenido:"\e900" ;display:inline-block;font-family:Astra;font-size:.6rem;font-weight:negrita;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: escala de grises;margen-izquierda:10px;altura-de-línea:normal;}.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before{transform: rotateX(180deg);}.ast-header-break-point .main-header-bar-navigation .menu-item-has-child > .menu-link:after{display:none;}.ast-separate-container . blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-color:transparente;background-image:none;}.ast-separate- contenedor .ast-article-post{background-color:var(--ast-global-color-5);;imagen de fondo: ninguno;;}.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate -contenedor .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, . single.ast-separate-container .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secundario .widget,.ast-separate -container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container . área de comentarios .título de comentarios, .ast-contenedor estrecho .contenido del sitio{background-color:var(--ast-global-color-5);;background-image:none;;}.ast-mobile- contenido del encabezado > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child { padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile -header-content > *:último-hijo,.ast-desktop-header-content > *:último-hijo {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon. ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header- barra-navegación .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header- contenido .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content ,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break- point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header- contenido .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > . elemento-menú > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .elemento-menú .elemento-menú > .sub-menú,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast -desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacidad: 1;visibilidad: visible;}.ast-hfb-header.ast-default-menu -enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {ancho: sin configurar; margen: sin configurar;}.ast-mobile-header -content.content-align-flex-end .main-header-bar-navigation .menu-item-has-child > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-child > .ast-menu-toggle {left: calc( 20px - 0.907em);}.ast-mobile-header-content .ast-search-menu- icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {ancho: 100%; posición: relativa; visualización: bloque; derecha: automático;transformar: ninguno;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .formulario de búsqueda,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {derecha: 0;visibilidad: visible;opacidad: 1;posición: relativa;superior: automático;transformación: ninguno;relleno: 0;pantalla: bloque;desbordamiento: oculto;}.ast-mobile-header-content .ast-search -menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu -icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop -header-content .ast-search-menu-icon .search-submit {display: bloque;posición: absoluta;altura: 100%;superior: 0;derecha: 0;relleno: 0 1em;border-radius: 0;} .ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub- menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header- contenido .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup- interior{background-color:var(--ast-global-color-4);;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:var(--ast-global-color-4);;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, . ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0;padding-bottom:0;}.content-align-flex-start .ast-builder-layout-element {justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color :#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:30px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:30px;}@media (max-width:921px){#masthead .ast-mobile-header-wrap .ast- barra de encabezado principal,#masthead .ast-mobile-header-wrap .ast-below-header-bar{padding-left:20px;padding-right:20px;}}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:0;border-bottom-color:rgba(255,255,255,0.16);border-bottom-style:solid;}@media (min-width:922px){.ast -primary-header-bar{border-bottom-width:0;border-bottom-color:rgba(255,255,255,0.16);border-bottom-style:solid;}}.ast-primary-header-bar{background-color :var(--ast-global-color-5);;imagen-de-fondo:ninguna;;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast- encabezado-punto de ruptura .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid ;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-0); border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{ancho:20px;height:20px;fill:var(--ast-global-color-0);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap . menú-móvil{color:var(--ast-global-color-0);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-child > .ast-menu- alternar{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-child > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder -menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu -mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-child > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation{font-size:20px;font-size:1.1764705882353rem;}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{padding-left:24px;padding-right:24px;}.ast-builder-menu -mobile .main-navigation .menu-item.menu-item-has-child > .ast-menu-toggle{top:0;right:calc( 24px - 0.907em );}.ast-builder-menu-mobile . main-navigation .menu-item-has-child > .menu-link:after{content:unset;}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation{font- size:18px;font-size:1.0588235294118rem;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-child > .ast-menu-toggle{top:0;}} .ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display :block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .navegación principal{display:block;}}.ast-above-header .main-header-bar-navigation{height:100%;}.ast-header-break-point .ast-mobile-header-wrap .ast- encima del encabezado-envoltura .principal-encabezado-barra-navegación .inline-on-mobile .menu-item .menu-link{border:none;}.ast-header-break-point .ast-mobile-header-wrap . ast-above-header-wrap .main-header-bar-navigation .inline-on-mobile .menu-item-has-child > .ast-menu-toggle::before{font-size:.6rem;}.ast -header-break-point .ast-mobile-header-wrap .ast-arriba-header-wrap .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before{transform:rotateX (180 grados);}.ast-mobile-header-wrap .ast-arriba-header-bar ,.ast-above-header-bar .site-above-header-wrap{min-height:30px;}.ast-desktop .ast-above-header-bar .main-header-menu > .menu-item{line-height:30px;}.ast-desktop .ast-above-header-bar .ast-header-woo-cart,.ast-desktop .ast-above-header-bar .ast-header-edd-cart{line-height:30px;}.ast-above-header-bar{border-bottom-width :0;border-bottom-color:rgba(255,255,255,0.16);border-bottom-style:solid;}.ast-above-header.ast-above-header-bar{background-color:#ffffff;;background- imagen: ninguna;;}.ast-header-break-point .ast-above-header-bar{background-color:#ffffff;}@media (max-width:921px){#masthead .ast-mobile-header- envolver .ast-above-header-bar{padding-left:20px;padding-right:20px;}}.ast-above-header-bar{display:block;}@media (max-width:921px){.ast -header-break-point .ast-above-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-above-header-bar{display: grid;}}:root{--e-global-color-astglobalcolor0:#981e25;--e-global-color-astglobalcolor1:#121212;--e-global-color-astglobalcolor2:#121212;--e- global-color-astglobalcolor3:#4a4a4a;--e-global-color-astglobalcolor4:#f2f2f2;--e-global-color-astglobalcolor5:#ffffff;--e-global-color-astglobalcolor6:#f2f5f7;--e-global-color- astglobalcolor7:#424242;--e-global-color-astglobalcolor8:#000000;}
+</estilo>
+<enlace rel='hoja de estilo' id='astra-google-fonts-css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%7CFrank+Ruhl+Libre %3A500#038;display=fallback#038;ver=4.0.2' media='all' />
+<enlace rel='hoja de estilo' id='astra-menu-animation-css' href='https://globaljuridicos.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css ?ver=4.0.2' media='todos' />
+<link rel='hoja de estilo' id='wp-block-library-css' href='https://globaljuridicos.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2 ' medios='todos' />
+<id de estilo='joinchat-button-style-inline-css'>
+.wp-block-joinchat-button{border:ninguno!importante;text-align:center}.wp-block-joinchat-button figure{display:table;margin:0 auto;padding:0}.wp-block-joinchat -button figcaption{fuente:normal normal 400 .6em/2em var(--wp--preset--font-family--system-font,sans-serif);margin:0;padding:0}.wp-block- joinchat-button .joinchat-button__qr{background-color:#fff;border:6px solid #25d366;border-radius:30px;box-sizing:content-box;display:block;height:200px;margin:auto;overflow: oculto;relleno:10px;ancho:200px}.wp-block-joinchat-button .joinchat-button__qr canvas,.wp-block-joinchat-button .joinchat-button__qr img{display:block;margin:auto}.wp-block -joinchat-button .joinchat-button__link{align-items:center;background-color:#25d366;border:6px solid #25d366;border-radius:30px;display:inline-flex;flex-flow:row nowrap;justify- contenido: centro; altura de línea: 1,25 em; margen:0 auto;text-decoration:none}.wp-block-joinchat-button .joinchat-button__link:before{background:transparent var(--joinchat-ico) no-repeat center;background-size:100%;content:" ";pantalla:bloque;altura:1,5em;margen:-0,75em 0,75em -0,75em 0;ancho:1,5em}.wp-block-joinchat-button figure+.joinchat-button__link{margin-top:10px}@media (orientación: horizontal) y (altura mínima: 481 px), (orientación: vertical) y (ancho mínimo: 481 px){.wp-block-joinchat-button.joinchat-button--qr-only figure+.joinchat-button__link {display:none}}@media (max-width:480px),(orientation:landscape)and (max-height:480px){.wp-block-joinchat-button figure{display:none}}75em -.75em 0;width:1.5em}.wp-block-joinchat-button figure+.joinchat-button__link{margin-top:10px}@media (orientation:landscape)and (min-height:481px),(orientation: retrato) y (ancho mínimo: 481 px) {.wp-block-joinchat-button.joinchat-button--qr-only figure+.joinchat-button__link{display: none}}@media (max-width: 480px),( orientación: paisaje) y (altura máxima: 480 px) {.wp-block-joinchat-button figure {display: none}}75em -.75em 0;width:1.5em}.wp-block-joinchat-button figure+.joinchat-button__link{margin-top:10px}@media (orientation:landscape)and (min-height:481px),(orientation: retrato) y (ancho mínimo: 481 px) {.wp-block-joinchat-button.joinchat-button--qr-only figure+.joinchat-button__link{display: none}}@media (max-width: 480px),( orientación: paisaje) y (altura máxima: 480 px) {.wp-block-joinchat-button figure {display: none}}
+
+</estilo>
+<id de estilo='estilos-globales-en-línea-css'>
+--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem ;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;-- wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--delineado: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content- tamaño: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide- ancho-tamaño); }.wp-site-blocks > .alignleft { float: izquierda; margen derecho: 2em; }. wp-site-blocks > .alignright { float: right; margen izquierdo: 2em; }.wp-site-blocks > .aligncenter { justificar-contenido: centro; margen izquierdo: automático; margen derecho: automático; }.wp-site-blocks > * { margin-block-start: 0; margen-bloque-fin: 0; }.wp-site-blocks > * + * { margin-block-start: 24px; }cuerpo { --wp--style--block-gap: 24px; }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: 24px;margin- block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block- start: 24px;margin-block-end: 0;}body .is-layout-flex{gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin -inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;
+.wp-block-navigation a:where(:not(.wp-element-button)){color: heredar;}
+.wp-block-pullquote{tamaño de fuente: 1,5 em; altura de línea: 1,6;}
+</estilo>
+<enlace rel='hoja de estilo' id='hfe-style-css' href='https://globaljuridicos.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css ?ver=1.6.13' media='todos' />
+<enlace rel='hoja de estilo' id='elementor-icons-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css ?ver=5.18.0' media='todos' />
+<enlace rel='hoja de estilo' id='elementor-frontend-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.11 .3' medios='todos' />
+<enlace rel='hoja de estilo' id='swiper-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver =8.4.5' medios='todos' />
+<enlace rel='hoja de estilo' id='elementor-post-23-css' href='https://globaljuridicos.com/wp-content/uploads/elementor/css/post-23.css?ver=1678209881' medios ='todos' />
+<enlace rel='hoja de estilo' id='elementor-post-19-css' href='https://globaljuridicos.com/wp-content/uploads/elementor/css/post-19.css?ver=1678468150' medios ='todos' />
+<enlace rel='hoja de estilo' id='hfe-widgets-style-css' href='https://globaljuridicos.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css ?ver=1.6.13' media='todos' />
+<enlace rel='hoja de estilo' id='elementor-post-361-css' href='https://globaljuridicos.com/wp-content/uploads/elementor/css/post-361.css?ver=1678468348' medios ='todos' />
+<enlace rel='hoja de estilo' id='joinchat-css' href='https://globaljuridicos.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat-btn.min.css?ver =4.5.18' medios='todos' />
+<enlace rel='hoja de estilo' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100cursiva%2C200%2C200cursiva%2C300%2C300cursiva%2C400 %2C400cursiva%2C500%2C500cursiva%2C600%2C600cursiva%2C700%2C700cursiva%2C800%2C800cursiva%2C900%2C900cursiva%7CRoboto+Slab%3A100%2C100cursiva%2C200%2C200cursiva%2C300% 2C300cursiva%2C400%2C400cursiva%2C500%2C500cursiva%2C600%2C600cursiva %2C700%2C700cursiva%2C800%2C800cursiva%2C900%2C900cursiva%7CFrank+Ruhl+Libre%3A100%2C100cursiva%2C200%2C200cursiva%2C300%2C300cursiva%2C400%2C400cursiva%2C500%2C500ita lic%2C600%2C600cursiva%2C700%2C700cursiva%2C800%2C800cursiva %2C900%2C900cursiva#038;display=swap#038;ver=6.2' media='all' />
+<enlace rel='hoja de estilo' id='elementor-icons-shared-0-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome .min.css?ver=5.15.3' media='todos' />
+<enlace rel='hoja de estilo' id='elementor-icons-fa-solid-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid .min.css?ver=5.15.3' media='todos' />
+<enlace rel='hoja de estilo' id='elementor-icons-fa-brands-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands .min.css?ver=5.15.3' media='todos' />
+<enlace rel="preconexión" href="https://fonts.gstatic.com/" crossorigin><!--[si IE]>
+<script src='https://globaljuridicos.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.0.2' id='astra-flexibility-js'>< /script>
+<script id='astra-flexibilidad-js-después'>
+flexibilidad(documento.documentElement);
+</script>
+<![finalizar]-->
+<script src='https://globaljuridicos.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
+<script src='https://globaljuridicos.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<enlace rel="https://api.w.org/" href="https://globaljuridicos.com/wp-json/" /><enlace rel="alternate" type="aplicación/json" href= "https://globaljuridicos.com/wp-json/wp/v2/pages/19" /><link rel="EditURI" type="aplicación/rsd+xml" title="RSD" href="https:/ /globaljuridicos.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="aplicacion/wlwmanifest+xml" href="https://globaljuridicos.com/wp-includes/wlwmanifest.xml" />
+<meta nombre="generador" contenido="WordPress 6.2" />
+<enlace rel="canonical" href="https://globaljuridicos.com/"/>
+<enlace rel='enlace corto' href='https://globaljuridicos.com/' />
+<link rel="alternate" type="aplicación/json+oembed" href="https://globaljuridicos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fglobaljuridicos.com%2F " />
+<link rel="alternate" type="text/xml+oembed" href="https://globaljuridicos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fglobaljuridicos.com%2F& #038;formato=xml"/>
+<meta name="bmi-version" content="1.2.7" /><meta name="generator" content="Elementor 3.11.3; características: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, adicionales_custom_breakpoints; configuraciones: css_print_method-external , Google_font-habilitado, font_display-swap">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-19 wp-custom-logo ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.0.2 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header elementor-default elementor -kit-23 elementor-pagina elementor-pagina-19">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" ancho="0" altura="0" enfocable="falso" rol="ninguno" estilo=" visibilidad: oculta; posición: absoluta; izquierda: -9999px; desbordamiento: oculta;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 . 114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" />< feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" />< feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http ://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absoluto; izquierda: -9999px; desbordamiento: oculto;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer ><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 . 114 0 0 .299 .587 .114 0 0 .299 .587 . 114 0 0 " /><feComponentTransfer filtros de interpolación de color="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter> </defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" ancho="0" alto="0" enfocable="falso" rol="ninguno" estilo="visibilidad: oculto; posición: absoluta; izquierda: -9999px; desbordamiento: oculto;" ><defs>< 0" altura="0" enfocable="falso" rol="ninguno" estilo="visibilidad: oculto; posición: absoluta; izquierda: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer ><feCompuesto en2="Gráfico fuente" operador="en" /></filtro></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" ancho="0 " altura="0" enfocable="falso" rol="ninguno" estilo="visibilidad: oculto; posición: absoluta; izquierda: -9999px; desbordamiento: oculto;" ><defs><filter id="wp-duotone-magenta-amarillo"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 . 114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" />< feFuncG tipo="tabla" tableValues="0 0.94901960784314" /><feFuncB tipo=" table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs ></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role=" ninguno" estilo="visibilidad: oculto; posición: absoluta; izquierda: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" valores=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />< feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues= "0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" ancho="0" alto="0" enfocable="falso" rol="ninguno" estilo= "visibilidad: oculta; posición: absoluta; izquierda: -9999px; desbordamiento: oculta;" ><defs><filter id="wp-duotono-azul-naranja"
+<un
+	class="skip-link screen-reader-text"
+	href="#contenido"
+	rol="enlace"
+	title="Ir al contenido">
+		Ir al contenido</a>
+
+<div
+clase = "sitio hfeed" id = "página">
+			<encabezado
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header -inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead" >
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-above-header-wrap">
+		<div class="ast-above-header-bar ast-above-header site-header-focus-item" data-section="section-above-header-builder">
+						<div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-grid-center-col-layout">
+											<div class="sitio-encabezado-arriba-sección-izquierda sitio-encabezado-sección ast-flex sitio-encabezado-sección-izquierda">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+					<span class="site-logo-img"><a href="https://globaljuridicos.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="200" height="64" src="https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13-200x64.png" class="custom- logo" alt="Despacho de Abogados" decoding="async" srcset="https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13-200x64.png 1x, https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13.png 2x" size="(max-width: 200px) 100vw, 200px" /></a ></span> </div>
+			<!-- .marca-del-sitio -->
+					</div>
+												<div class="sitio-encabezado-encima-de-la-sección-izquierda-centro sitio-encabezado-sección ast-flex ast-grid-izquierda-centro-sección">
+																			</div>
+															</div>
+																			<div class="sitio-encabezado-arriba-sección-centro sitio-encabezado-sección ast-flex ast-grid-sección-centro">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section= "sección-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navegación-accesibilidad sitio- header-focus-item" id="primary-site-navigation" aria-label="Navegación del sitio" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main- navegación ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex submenu-with-border astra-menu -animation-slide-down ast-menu-hover-style-zoom inline-on-mobile"><li id="menu-item-609" class="elemento-menú elemento-menú-tipo-post_tipo elemento-menú-objeto-página menú-elemento-inicio elemento-menú-actual elemento_página elemento-página-19 elemento_página_actual elemento-menú-609"><a href="https:// globaljuridicos.com/" aria-current="page" class="menu-link">Inicio</a></li>
+<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="https://globaljuridicos.com /sobre-nosotros/" class="menu-link">Sobre Nosotros</a></li>
+<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://globaljuridicos.com /abogados/" class="menu-link">Abogados</a></li>
+<li id="menu-item-1663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-child menu-item-1663"><a href=" #" class="menu-link">Migración</a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menú alternativo</ span><span class="ast-icon icono-flecha"></span></botón>
+<ul class="submenú">
+	<li id="menu-item-1541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1541"><a href="https://wa.link /yu5cp8" class="menu-link">Residencia Permanente (Tarjeta Verde)</a></li>
+	<li id="menu-item-1542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542"><a href="https://wa.link /yu5cp8" class="menu-link">Permiso de trabajo</a></li>
+	<li id="menu-item-1544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1544"><a href="https://wa.link /yu5cp8" class="menu-link">Ciudadania</a></li>
+	<li id="menu-item-1545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1545"><a href="https://wa.link /yu5cp8" class="menu-link">Visas Familiares</a></li>
+	<li id="menu-item-1546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546"><a href="https://wa.link /yu5cp8" class="menu-link">Defensa de Eliminación</a></li>
+	<li id="menu-item-1547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1547"><a href="https://wa.link /yu5cp8" class="menu-link">Excepciones (Perdón)</a></li>
+	<li id="menu-item-1548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1548"><a href="https://wa.link /yu5cp8" class="menu-link">Apelaciones BIA</a></li>
+	<li id="menu-item-1549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1549"><a href="https://wa.link /yu5cp8" class="menu-link">Visa U y vawa</a></li>
+</ul>
+</li>
+<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://globaljuridicos.com /resultados/" class="menu-link">Defensa Penal</a></li>
+<li id="menu-item-1583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1583"><a href="https://globaljuridicos.com /finanzas/" class="menu-link">Finanzas</a></li>
+<li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314"><a href="https://globaljuridicos.com /contactenos/" class="menu-link">Contacto</a></li>
+</ul></div></navegación></div></div> </div>
+									</div>
+																			<div class="sitio-encabezado-arriba-sección-derecha sitio-encabezado-sección ast-flex ast-grid-sección-derecha">
+																	>
+																			</div>
+											<div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
+			<div class="ast-builder-button-wrap ast-builder-button-size-"><a class="ast-custom-button-link" href="https://www.finra.org/#/ " target="_self" ><div class=ast-custom-button>finra</div></a><a class="menu-link" href="https://www.finra.org/#/ " target="_self" >finra</a></div> </div>
+									</div>
+												</div>
+					</div>
+								</div>
+			</div>
+		<div class="ast-desktop-header-content content-align-flex-start ">
+			</div>
+</div> <!-- Ajuste de barra de encabezado principal -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap" data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-envoltura" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder -grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left sitio-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+					<span class="site-logo-img"><a href="https://globaljuridicos.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="200" height="64" src="https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13-200x64.png" class="custom- logo" alt="Despacho de Abogados" decoding="async" srcset="https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13-200x64.png 1x, https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13.png 2x" size="(max-width: 200px) 100vw, 200px" /></a ></span> </div>
+			<!-- .marca-del-sitio -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1" data-section="section-hb-button-1">
+			<div class="ast-builder-button-wrap ast-builder-button-size-"><a class="ast-custom-button-link" href="https://www.finra.org/#/ " target="_self" ><div class=ast-custom-button>finra</div></a><a class="menu-link" href="https://www.finra.org/#/ " target="_self" >finra</a></div> </div>
+				<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal" aria-expanded="false">
+					<span class="screen-reader-text">Menú principal</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-menu2-svg' fill='currentColor' version='1.1' xmlns='http ://www.w3.org/2000/svg' width='24' height='28' viewBox='0 0 24 28'><ruta d='M24 21v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h22c0.547 0 1 0.453 1 1zM24 13v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0- 0.547 0.453-1 1-1h22c0.547 0 1 0.453 1 1zM24 5v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h22c0 .547 0 1 0.453 1 1z'></ruta></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close- svg' fill='color actual' versión='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><ruta d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414 l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0 -1.414S-1.024-0.391-1.414 0L-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0S-0.391 1.024 0 1.414z '> </shet> </svg> </span> /lapso>293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></ruta></svg></span> </span>293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></ruta></svg></span> </span>
+									</botón>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+		<div class="ast-mobile-header-content content-align-flex-start ">
+				<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section- encabezado-menu-movil">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navegación-accesibilidad sitio- header-focus-item" id="ast-mobile-site-navigation" aria-label="Navegación del sitio" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class=" main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex submenu-with-border astra-menu-animation-fade stack-on- mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-19 current_page_item menu-item-609">< a href="https://globaljuridicos.com/"aria-current="page" class="menu-link">Inicio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="https://globaljuridicos.com/sobre-nosotros/" class=" menu-link">Sobre Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://globaljuridicos.com/abogados/" class="menu- link">Abogados</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-child menu-item-1663"><a href="#" class="menu-link" >Migración</a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menú alternativo</span><span class="ast- icono icono-flecha"></span></botón>
+<ul class="submenú">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1541"><a href="https://wa.link/yu5cp8" class="menu-link ">Residencia Permanente (Tarjeta Verde)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542"><a href="https://wa.link/yu5cp8" class="menu-link ">Permiso de trabajo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1544"><a href="https://wa.link/yu5cp8" class="menu-link ">Ciudadania</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1545"><a href="https://wa.link/yu5cp8" class="menu-link ">Visas Familiares</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546"><a href="https://wa.link/yu5cp8" class="menu-link ">Defensa de Eliminación</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1547"><a href="https://wa.link/yu5cp8" class="menu-link ">Excepciones (Perdón)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1548"><a href="https://wa.link/yu5cp8" class="menu-link ">Apelaciones BIA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1549"><a href="https://wa.link/yu5cp8" class="menu-link ">Visa U y vawa</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://globaljuridicos.com/resultados/" class="menu- link">Defensa Penal</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1583"><a href="https://globaljuridicos.com/finanzas/" class="menu- link">Finanzas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314"><a href="https://globaljuridicos.com/contactenos/" class="menu- link">Contacto</a></li>
+</ul></div></navegación></div></div> </div>
+			</div>
+</div>
+		</header><!-- #cabecera -->
+			<div id="contenido" class="contenido-sitio">
+		<div class="contenedor-ast">
+		
+
+	<div id="principal" class="área de contenido principal">
+
+		
+					<id principal="clase principal"="sitio-principal">
+				<artículo
+class="post-19 tipo de página-estado de página-publicar ast-article-single" id="post-19" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+	
+	
+	<header class="entry-header ast-no-thumbnail ast-no-title ast-header-sin-marca">
+			</header> <!-- .entry-header -->
+
+
+<div class="contenido de entrada claro"
+	itemprop="texto">
+
+	
+			<div datos-elementor-type="wp-page" datos-elementor-id="19" class="elementor elementor-19">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8d83d04 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d83d04" data- element_type="section" data-settings="{"background_background":"video","background_video_link":"https:\/\/youtu.be\/tQYUzzDIrO4","background_play_on_mobile":"sí" ;}">
+								<div class="elementor-background-video-container">
+													<div class="elementor-background-video-embed"></div>
+												</div>
+								<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1106e9c" data-id="1106e9c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-344285f elementor-mobile-align-center elementor-icon-list--layout-tradicional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="344285f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="hoja de estilo" href="https://globaljuridicos.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"> <ul class="elementor-icon- elementos de la lista">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-lista-icono">
+							<i aria-hidden="true" class="fas fa-medal"></i> </span>
+										<span class="elementor-icon-list-text">Nuestro bufete de abogados lo ayudará en lo que necesite</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7c14167 elementor-widget elementor-widget-heading" data-id="7c14167" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<estilo>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-heading-title{relleno:0;margen:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font -tamaño:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor -size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor -size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Finanzas, Migración, Rentas, Recuperación de Forex, entre otras mas...</h2> </div>
+				</div>
+				<div class="elementor-element elementor-element-58e499f elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="58e499f" data-element_type="widget" data-widget_type="button. predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
+						<span class="elementor-button-text">Consigue ayuda ahora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7bbcc2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bbcc2d" data- element_type="section" data-settings="{"background_background":"clásico"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d4af46a" data-id="d4af46a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-94d04cf elementor-widget elementor-widget-heading" data-id="94d04cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Los requisitos legales para establecerse en los EE. UU. a veces tienen matices y son confusos.<br>Nuestro bufete de abogados ofrece soluciones inteligentes y viables para ayudar a alcanzar sus objetivos.</h3> </div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-16ef59d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data- id="16ef59d" data-element_type="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9b43521" data-id="9b43521" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d225d31 elementor-widget elementor-widget-image" data-id="d225d31" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<estilo>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{ancho:48px}. elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <img decoding="async" width="600" height="600" src="https://globaljuridicos.com /wp-content/uploads/2021/03/personal-injury-lawyer-template-about-img.jpg" class="attachment-full size-full wp-image-131" alt="" loading="lazy" srcset ="https://globaljuridicos.com/wp-content/uploads/2021/03/personal-injury-abogado-plantilla-sobre-img.jpg 600w, https://globaljuridicos.com/wp-content/uploads/2021/03/personal-injury-lawyer-template-about-img-300x300.jpg 300w, https:// globaljuridicos.com/wp-content/uploads/2021/03/personal-injury-lawyer-template-about-img-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /> </div >
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a209a65" data-id="a209a65" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ba228c2 elementor-widget elementor-widget-heading" data-id="ba228c2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Creemos que todos merecen servicios legales de calidad a un precio asequible</h2> </div>
+				</div>
+				<div class="elementor-element elementor-element-2d2eb53 elementor-widget elementor-widget-text-editor" data-id="2d2eb53" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<estilo>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop- cap-view-framed .elementor-drop-cap{color:#818a91;borde:3px sólido;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{ancho:1em;alto: 1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor- drop-cap-letter{display:inline-block}</style> <p>Ofrecemos servicios legales asequibles en migración y defensa criminal. Nuestro personal habla inglés y español en ambas oficinas (EEUU).</p><p>
+				</div>
+				<div class="elementor-element elementor-element-3166d81 elementor-widget elementor-widget-button" data-id="3166d81" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-push" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Conoce mas</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-124b894 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="124b894" data- element_type="section" data-settings="{"background_background":"clásico"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b4dad19" data-id="b4dad19" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-81df906 elementor-widget elementor-widget-heading" data-id="81df906" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Trabajamos en algunas de estas ramas</h2> </div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a80fdce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a80fdce" data- tipo_elemento="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cc4a1dc" data-id="cc4a1dc" data-element_type="column" data-settings="{"background_background" ;:"clásico"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4304cd6 elementor-widget elementor-widget-spacer" data-id="4304cd6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<estilo>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget- spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget- align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer> .elementor-widget-container>.elementor-widget-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-spacer> .elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor -widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style> <div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1361cec elementor-view-stacked elementor-position-left elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon -box" data-id="1361cec" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://globaljuridicos.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css"> <div class="elementor-icon- envoltorio de caja">
+						<div class="elementor-icono-caja-icono">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-scroll"></i> </span>
+			</div>
+						<div class="elementor-icon-cuadro-contenido">
+				<h3 class="elementor-icono-box-title">
+					<lapso>
+						Finanzas</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b4f9cfa" data-id="b4f9cfa" data-element_type="column" data-settings="{"background_background" ;:"clásico"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e227547 elementor-widget elementor-widget-spacer" data-id="e227547" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cc2b6f elementor-view-stacked elementor-position-left elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon -box" data-id="4cc2b6f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-caja-envoltura">
+						<div class="elementor-icono-caja-icono">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-money-bill-wave"></i> </span>
+			</div>
+						<div class="elementor-icon-cuadro-contenido">
+				<h3 class="elementor-icono-box-title">
+					<lapso>
+						Migración </span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ad778a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ad778a2" data- tipo_elemento="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a9c1d7d" data-id="a9c1d7d" data-element_type="column" data-settings="{"background_background" ;:"clásico"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6046259 elementor-widget elementor-widget-spacer" data-id="6046259" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b28aa96 elementor-view-stacked elementor-position-left elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon -box" data-id="b28aa96" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-caja-envoltura">
+						<div class="elementor-icono-caja-icono">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-hands-helping"></i> </span>
+			</div>
+						<div class="elementor-icon-cuadro-contenido">
+				<h3 class="elementor-icono-box-title">
+					<lapso>
+						Divorcios</span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-02270e3" data-id="02270e3" data-element_type="column" data-settings="{"background_background" ;:"clásico"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e923f9 elementor-widget elementor-widget-spacer" data-id="4e923f9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ee1571 elementor-view-stacked elementor-position-left elementor-shape-circle elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon -box" data-id="3ee1571" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-caja-envoltura">
+						<div class="elementor-icono-caja-icono">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-trofeo"></i> </span>
+			</div>
+						<div class="elementor-icon-cuadro-contenido">
+				<h3 class="elementor-icono-box-title">
+					<lapso>
+						Rentas </span>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0a80c5f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0a80c5f" data- element_type="section" data-settings="{"background_background":"clásico"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-02115c5" data-id="02115c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5494b65 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data- id="5494b65" data-element_type="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-28b630c" data-id="28b630c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e23ead4 elementor-widget elementor-widget-heading" data-id="e23ead4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Otras áreas de práctica</h2> </div>
+				</div>
+				<div class="elementor-element elementor-element-cde6c99 elementor-widget elementor-widget-text-editor" data-id="cde6c99" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Contamos con un gran portafolio para llevar tu caso y ayudarte a solucionarlo de manera positiva</p> </div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6944022" data-id="6944022" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7f01222 elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7f01222" data-element_type="widget" data- widget_type="botón.predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.link/sfv4fd" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contáctenos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f3b8204 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3b8204" data- tipo_elemento="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8df0f73" data-id="8df0f73" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ec42007 elementor-widget elementor-widget-heading" data-id="ec42007" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Accidente</h4> </div>
+				</div>
+				<div class="elementor-element elementor-element-aab5cfa elementor-widget elementor-widget-text-editor" data-id="aab5cfa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p dir="ltr"><strong><span>Si resultó herido en un accidente automovilístico, no espere, llámenos ahora mismo al 447418378205</span> <span> para sus necesidades de lesiones personales.</span> </strong></p> </div>
+				</div>
+				<div class="elementor-element elementor-element-7b85dac elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7b85dac" data-element_type="widget" data-widget_type="button. predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.link/sfv4fd" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048"><path d="M6.125 1088h1797.89l-402.976 403 89.994 90L2048 1024l-556.966-557- 89.994 90 402.976 403H6.125v128z"></ruta></svg> </span>
+						<span class="elementor-button-text">Chatea con nosotros</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3e7af0e" data-id="3e7af0e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b2e33b3 elementor-widget elementor-widget-heading" data-id="b2e33b3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Lesiones Personales</h4> </div>
+				</div>
+				<div class="elementor-element elementor-element-d1104ab elementor-widget elementor-widget-text-editor" data-id="d1104ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Estamos para ayudarte, comunicate con nosotros al whatsapp o al correo electronico</p> </div>
+				</div>
+				<div class="elementor-element elementor-element-88f60f9 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="88f60f9" data-element_type="widget" data-widget_type="button. predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.link/sfv4fd" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048"><path d="M6.125 1088h1797.89l-402.976 403 89.994 90L2048 1024l-556.966-557- 89.994 90 402.976 403H6.125v128z"></ruta></svg> </span>
+						<span class="elementor-button-text">Chatea con nosotros</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4283a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4283a8" data- tipo_elemento="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dea7845" data-id="dea7845" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cdcfe1d elementor-widget elementor-widget-heading" data-id="cdcfe1d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Compensación de trabajadores</h4> </div>
+				</div>
+				<div class="elementor-element elementor-element-ced3a5b elementor-widget elementor-widget-text-editor" data-id="ced3a5b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hay que ser justos con nuestros salarios y liquidaciones si sientes que no están haciendo justicia comunicate con nosotros y te ayudaremos</p> </div>
+				</div>
+				<div class="elementor-element elementor-element-da364bb elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="da364bb" data-element_type="widget" data-widget_type="button. predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.link/sfv4fd" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048"><path d="M6.125 1088h1797.89l-402.976 403 89.994 90L2048 1024l-556.966-557- 89.994 90 402.976 403H6.125v128z"></ruta></svg> </span>
+						<span class="elementor-button-text">Chatea con nosotros</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0017040" data-id="0017040" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e64f005 elementor-widget elementor-widget-heading" data-id="e64f005" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Derecho administrativo</h4> </div>
+				</div>
+				<div class="elementor-element elementor-element-8e6444d elementor-widget elementor-widget-text-editor" data-id="8e6444d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Comuníquese con nosotros ahora mismo</p> </div>
+				</div>
+				<div class="elementor-element elementor-element-811964b elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="811964b" data-element_type="widget" data-widget_type="button. predeterminado">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.link/sfv4fd" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048"><path d="M6.125 1088h1797.89l-402.976 403 89.994 90L2048 1024l-556.966-557- 89.994 90 402.976 403H6.125v128z"></ruta></svg> </span>
+						<span class="elementor-button-text">Chatea con nosotros</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+					</div>
+		</div>
+							</div>
+		</sección>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-20078b1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20078b1" data- element_type="section" data-settings="{"background_background":"clásico"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3453c17" data-id="3453c17" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-689c62b elementor-widget elementor-widget-heading" data-id="689c62b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Algunos de nuestros clientes</h2> </div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8534de0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8534de0" data- tipo_elemento="sección">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f699889" data-id="f699889" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-deb90a5 elementor-view-default elementor-widget elementor-widget-icon" data-id="deb90a5" data-element_type="widget" data-widget_type="icon.default" >
+				<div class="elementor-widget-container">
+					<div class="elementor-icono-envoltorio">
+			<div class="icono-elementor">
+			<i aria-hidden="true" class="fas fa-quote-left"></i> </div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9159510 elementor-widget elementor-widget-testimonial" data-id="9159510" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+			<estilo>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper . elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial -meta{ancho:100%;altura-línea:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor- detalles del testimonio,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor- testimonial-image img{ancho:60px;alto:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial -image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial- image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class=" elementor-testimonial-wrapper">-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{ padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor- testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display :block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial -envoltura">-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{ padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor- testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display :block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial -envoltura">cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}. elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial -imagen-posición-superior .elementor-testimonial-detalles,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial -wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}. elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial -imagen-posición-superior .elementor-testimonial-detalles,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial -wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor- testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor -detalles-testimoniales,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor- testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor -detalles-testimoniales,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor -testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor- imagen-testimonial{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor -testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor- imagen-testimonial{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor- testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-tails,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor -testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor- testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-tails,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor -testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style> <div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Recomendando 100% a este grupo de abogados estoamos super contentos agradecida con ellos, nos ayudaron mucho </div>
+			
+						<div class="elementor-testimonial-meta elementor-tiene-imagen elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-interno">
+											<div class="imagen-testimonial-elementor">
+							<img decoding="async" width="64" height="64" src="https://globaljuridicos.com/wp-content/uploads/2023/03/unnamed.png" class="adjunto-tamaño completo- wp-image-1535 completo" alt="" cargando="perezoso" /> </div>
+					
+										<div class="elementor-testimonial-detalles">
+														<div class="elementor-testimonial-name">Yolanda Nayares</div>
+																			</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2c2368d" data-id="2c2368d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d9bbb3 elementor-view-default elementor-widget elementor-widget-icon" data-id="2d9bbb3" data-element_type="widget" data-widget_type="icon.default" >
+				<div class="elementor-widget-container">
+					<div class="elementor-icono-envoltorio">
+			<div class="icono-elementor">
+			<i aria-hidden="true" class="fas fa-quote-left"></i> </div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1c0bf82 elementor-widget elementor-widget-testimonial" data-id="1c0bf82" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Ampliamente recomiendo al abogado Hans y sus asociados ya que son un excelente equipo,</div>
+			
+						<div class="elementor-testimonial-meta elementor-tiene-imagen elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-interno">
+											<div class="imagen-testimonial-elementor">
+							<img decodificación="async" width="64" height="64" src="https://globaljuridicos.com/wp-content/uploads/2023/03/unnamed-1.png" class="adjunto-completo tamaño completo wp-image-1536" alt="" loading="lazy" /> </div>
+					
+										<div class="elementor-testimonial-detalles">
+														<div class="elementor-testimonial-name">Patricia Rodríguez</div>
+																			</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-84cc878" data-id="84cc878" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0d4717 elementor-view-default elementor-widget elementor-widget-icon" data-id="c0d4717" data-element_type="widget" data-widget_type="icon.default" >
+				<div class="elementor-widget-container">
+					<div class="elementor-icono-envoltorio">
+			<div class="icono-elementor">
+			<i aria-hidden="true" class="fas fa-quote-left"></i> </div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-36c27b1 elementor-widget elementor-widget-testimonial" data-id="36c27b1" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Estoy muy contento con mi nuevo estatus migratorio y despues de tanto tiempo por fin pude salir y ver a mi familia.</div>
+			
+						<div class="elementor-testimonial-meta elementor-tiene-imagen elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-interno">
+											<div class="imagen-testimonial-elementor">
+							<img decodificación="async" width="64" height="64" src="https://globaljuridicos.com/wp-content/uploads/2023/03/unnamed-2.png" class="adjunto-completo tamaño completo wp-image-1537" alt="" loading="lazy" /> </div>
+					
+										<div class="elementor-testimonial-detalles">
+														<div class="elementor-testimonial-name">Francisco Cardiz</div>
+																			</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+					</div>
+		</div>
+							</div>
+		</sección>
+							</div>
+		
+	
+	
+</div><!-- .entry-content .clear -->
+
+	
+	
+</artículo><!-- #post-## -->
+
+			</principal><!-- #principal -->
+			
+		
+	</div><!-- #principal -->
+
+
+	</div> <!-- contenedor-ast -->
+	</div><!-- #contenido -->
+		<div class="hfe-before-footer-wrap">
+			<div class='footer-width-fixer'> <div data-elementor-type="wp-post" data-elementor-id="361" class="elementor elementor-361">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4d3298a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d3298a" data- element_type="section" data-settings="{"background_background":"clásico"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7a61b79" data-id="7a61b79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-70153af elementor-widget elementor-widget-heading" data-id="70153af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">¿Listo para obtener respuestas de un abogado calificado?</h2> </div>
+				</div>
+				<div class="elementor-element elementor-element-3d94cb2 elementor-widget elementor-widget-heading" data-id="3d94cb2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Consulta sin compromiso</h6> </div>
+				</div>
+				<div class="elementor-element elementor-element-8e081c8 elementor-widget elementor-widget-heading" data-id="8e081c8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Contáctenos: +1 914 520 6827</h4> </div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d160963" data-id="d160963" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-98941a6 elementor-widget elementor-widget-wpforms" data-id="98941a6" data-element_type="widget" data-widget_type="wpforms.default">
+				<div class="elementor-widget-container">
+			<div class="wpforms-container" id="wpforms-6"><form id="wpforms-form-6" class="wpforms-validate wpforms-form" data-formid="6" method="post" enctype="multipart/form-data" action="/" data-token="7d6d652813b1f00a6f775b3331750076"><noscript class="wpforms-error-noscript">Por favor, activa JavaScript en tu navegador para completar este formulario.</noscript ><div class="wpforms-field-container"><div id="wpforms-6-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-6-field_0">Nombre <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-6-field_0" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][0]" placeholder="Tu nombre" required></ div><div id="wpforms-6-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for= "wpforms-6-field_1">Correo electrónico <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-6-field_1" class="wpforms -field-large wpforms-field-required" name="wpforms[fields][1]" placeholder="Correo eléctronico" required></div><div id="wpforms-6-field_3-container" class= "wpforms-field wpforms-field-number"data-field-id="3"><label class="wpforms-field-label" for="wpforms-6-field_3">Telefono</label><input type="number" pattern="\d*" id="wpforms-6-field_3" class="wpforms-field-large" name="wpforms[fields][3]" placeholder="Numero de telefono" ></div><div id="wpforms-6- field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-6-field_2">Mensaje <span class="wpforms-required-label">*</span></label><textarea id="wpforms-6-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields ][2]" marcador de posición="Describenos tu caso" required></textarea></div></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="6" ><tipo de entrada="nombre oculto"="wpforms[autor]" valor="1"><tipo de entrada="nombre oculto"="wpforms[post_id]" valor="19"><tipo de botón="enviar" name="wpforms[submit]" id="wpforms-submit-6" class="wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live ="asertive" value="wpforms-submit">Enviar mensaje</button></div></form></div> <!-- .wpforms-container --> </div>div class="wpforms-submit-container"><tipo de entrada="oculto" nombre="wpforms[id]" valor="6"><tipo de entrada="oculto" nombre="wpforms[autor]" valor=" 1"><tipo de entrada="oculto" nombre="wpforms[post_id]" valor="19"><tipo de botón="enviar" nombre="wpforms[enviar]" id="wpforms-enviar-6" clase= "wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live="asertive" value="wpforms-submit">Enviar mensaje</button>< /div></formulario></div> <!-- .wpforms-container --> </div>div class="wpforms-submit-container"><tipo de entrada="oculto" nombre="wpforms[id]" valor="6"><tipo de entrada="oculto" nombre="wpforms[autor]" valor=" 1"><tipo de entrada="oculto" nombre="wpforms[post_id]" valor="19"><tipo de botón="enviar" nombre="wpforms[enviar]" id="wpforms-enviar-6" clase= "wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live="asertive" value="wpforms-submit">Enviar mensaje</button>< /div></formulario></div> <!-- .wpforms-container --> </div>tipo de entrada = "oculto" nombre = "wpforms [autor]" valor = "1">< tipo de entrada = "oculto" nombre = "wpforms [post_id]" valor = "19" <tipo de botón = "enviar" nombre = "wpforms[submit]" id="wpforms-submit-6" class="wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live=" asertivo" value="wpforms-submit">Enviar mensaje</button></div></form></div> <!-- .wpforms-container --> </div>tipo de entrada = "oculto" nombre = "wpforms [autor]" valor = "1">< tipo de entrada = "oculto" nombre = "wpforms [post_id]" valor = "19" <tipo de botón = "enviar" nombre = "wpforms[submit]" id="wpforms-submit-6" class="wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live=" asertivo" value="wpforms-submit">Enviar mensaje</button></div></form></div> <!-- .wpforms-container --> </div>class="wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live="asertive" value="wpforms-submit">Enviar mensaje</button ></div></formulario></div> <!-- .wpforms-container --> </div>class="wpforms-submit" data-alt-text="Enviando...." data-submit-text="Enviar mensaje" aria-live="asertive" value="wpforms-submit">Enviar mensaje</button ></div></formulario></div> <!-- .wpforms-container --> </div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</sección>
+							</div>
+		</div> </div>
+	<pie de página
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-3-equal ast-builder-grid-row-tablet-3 -equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer- constructor">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
+							<div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-1" data-section="section-fb-html-1">
+			<div class="ast-header-html estilo-enlace-interno-"><div class="ast-builder-html-element"><p><img class="alignnone wp-image-1659 tamaño-medio" src="https://globaljuridicos.com/wp-content/uploads/2023/03/cropped-Diseno-sin-titulo-13-300x96.png" alt="" width="300" height="96" / ></p>
+<p>123 S 4th St, Las Vegas, NV 12004.<br />
+(319) 7010281846<br />
+info@globaljuridicos.com</p>
+</div></div> </div>
+					<div class="ast-builder-layout-element ast-flex site-footer-focus-item" data-section="section-fb-social-icons-1">
+				<div class="ast-footer-social-1-wrap ast-footer-social-wrap"><div class="footer-social-inner-wrap element-social-inner-wrap social-show-label-false ast -social-color-type-custom ast-social-stack-none ast-social-element-style-filled"><a href="" aria-label=Facebook target="_blank" rel="noopener noreferrer" style= "--color: #557dbc; --background-color: transparente;" class="ast-builder-social-element ast-inline-flex ast-facebook footer-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns=' http://www.w3.org/2000/svg' viewBox='0 0 512 512'><ruta d='M504 256C504 119 393 8 256 8S8 119 8 256c0 123,78 90,69 226,38 209,25 245V327.69h- 63V256h63v-54.64c0 -62,15 37-96,48 93,67-96,48 27,14 0 55,52 4. 84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z' ></ruta></svg></span></a ><a href="" aria-label=Twitter target="_blank" rel="noopener noreferrer" style="--color: #7acdee; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-twitter footer-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns=' 2 98.558 -59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.97 5-84.792-31.188-98.112-72. 772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c1 3.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781- 87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.0 4 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599 -25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z'></ruta></svg></span></a><a href="" aria-label=Instagram target="_blank" rel="noopener noreferrer" style="--color: #8a3ab9; --background-color: transparent;" clase="
+						</div>
+											<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
+							<aparte
+		class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1" >
+			<div class="footer-widget-area-inner site-info-inner"><section id="nav_menu-1" class="widget widget_nav_menu"><h2 class="widget-title">Menú Rápido< /h2><nav class="menu-footer-menu-rapido-container" aria-label="Menú Rápido"><ul id="menu-footer-menu-rapido" class="menu"><li id="menu-item-1412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1412"><a href="https://globaljuridicos.com/sobre -nosotros/" class="menu-link">Sobre nosotros</a></li>
+<li id="menu-item-1411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1411"><a href="https://globaljuridicos.com /abogados/" class="menu-link">Abogados</a></li>
+<li id="menu-item-342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-342"><a href="#" class="menu- link">Comunidad</a></li>
+<li id="menu-item-1410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1410"><a href="https://globaljuridicos.com /contactenos/" class="menu-link">Contacto</a></li>
+</ul></nav></sección></div> </aside>
+						</div>
+											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
+								<div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-2" data-section="section-fb-html-2">
+				<div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><h4><span style="color: #ffffff;">Horario de atención </span></h4>
+<p>Lunes: 8.30 AM - 5.30 PM<br />
+Martes: 8.30 AM - 5.30 PM<br />
+Miércoles: 8:30 - 17:30<br />
+Jueves: 8.30 AM - 5.30 PM<br />
+Viernes: 8.30 AM - 5.30 PM</p>
+</div></div> </div>
+							</div>
+										</div>
+			</div>
+
+</div>
+<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast- builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright © Jurídicos Globales 2023 | Todos los derechos reservados</p>
+</div> </div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colofón -->
+	</div><!-- #página -->
+
+<div class="joinchat joinchat--right joinchat--btn" data-settings='{"teléfono":"19145206827","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr" :false,"message_views":2,"message_delay":10,"message_badge":false,"message_send":"","message_hash":""}'>
+	<div class="joinchat__button">
+		<div class="joinchat__button__open"></div>
+									</div>
+	</div>
+<enlace rel='hoja de estilo' id='e-animations-css' href='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.11 .3' medios='todos' />
+<enlace rel='hoja de estilo' id='wpforms-base-css' href='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver =1.8.0.2' medios='todos' />
+<script id='astra-tema-js-js-extra'>
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":""};
+</script>
+<script src='https://globaljuridicos.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.0.2' id='astra-theme-js-js' ></guión>
+<script src='https://globaljuridicos.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.5.18' id='joinchat-js'>< /script>
+<script src='https://globaljuridicos.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.3' id='elementor-webpack-runtime-js' ></guion>
+<script src='https://globaljuridicos.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.3' id='elementor-frontend-modules-js' ></guión>
+<script src='https://globaljuridicos.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'>< /script>
+<script src='https://globaljuridicos.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script >
+<script id='elementor-frontend-js-antes'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":" Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{ "xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767," dirección":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max", "is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra" :{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande", "value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.11.3","is_static":false,"experimentalFeatures":{ "e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true,"kit-elements-defaults ":true},"urls":{"activos":"https:\/\/globaljuridicos.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit ":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"sí","lightbox_enable_counter":"sí","lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí"," lightbox_enable_share":"si","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2% 80%93%20Creciendo%20Juntos","extracto":"","featuredImage":false}};"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox" :"sí","lightbox_enable_counter":"sí","lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"title","lightbox_description_src":" description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","excerpt":"","featuredImage": FALSO}};"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox" :"sí","lightbox_enable_counter":"sí","lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"title","lightbox_description_src":" description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","excerpt":"","featuredImage": FALSO}};page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"sí","lightbox_enable_counter":"sí"," lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"título","lightbox_description_src":"descripción"},"publicación":{"id":19 ,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","excerpt":"","featuredImage":false}};page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"sí","lightbox_enable_counter":"sí"," lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"título","lightbox_description_src":"descripción"},"publicación":{"id":19 ,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","excerpt":"","featuredImage":false}};"global_image_lightbox":"sí","lightbox_enable_counter":"sí","lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"title","lightbox_description_src ":"description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","extracto":""," imagen destacada": falso}};"global_image_lightbox":"sí","lightbox_enable_counter":"sí","lightbox_enable_fullscreen":"sí","lightbox_enable_zoom":"sí","lightbox_enable_share":"sí","lightbox_title_src":"title","lightbox_description_src ":"description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","extracto":""," imagen destacada": falso}};title","lightbox_description_src":"description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","extracto" :"","Imagen destacada":falso}};title","lightbox_description_src":"description"},"post":{"id":19,"title":"Despacho%20de%20Abogados%20%E2%80%93%20Creciendo%20Juntos","extracto" :"","Imagen destacada":falso}};
+</script>
+<script src='https://globaljuridicos.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.3' id='elementor-frontend-js'></script >
+<script src='https://globaljuridicos.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://globaljuridicos.com/wp-includes/js/wp-util.min.js?ver=6.2' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.0.2' id='wpforms-elementor- js'></script>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5' id='wpforms-validation-js' ></guion>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2' id='wpforms-mailcheck-js'>< /script>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0' id='wpforms-punycode-js'>< /script>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.8.0.2' id='wpforms-generic-utils-js' ></guión>
+<script src='https://globaljuridicos.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.8.0.2' id='wpforms-js'></script >
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=ubicación.hash.substring(1);/^[A- z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName )||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			<tipo de script='texto/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"Este campo es obligatorio.","val_email":"Por favor, introduce una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida.","val_email_suggestion":"\u00bfQuieres decir {sugerencia }?","val_email_suggestion_title":"Haz clic para aceptar esta sugerencia.","val_email_restricted":"Esta direcci\u00f3n de correo electr\u00f3nico no est\u00e1 permitido.","val_number":"Por favor, introduce un n\u00famero v\u00e1lido.","val_number_positive":"Por favor, introduce un n\u00famero de tel\u00e9fono v\u00e1lido.","val_confirm":"Los valores del campo no coinciden.","val_checklimit": "Has excedido el n\u00famero de selecciones permitidos: {#}.","val_limit_characters":"{count} de {limit} caracteres m\u00e1ximos.","val_limit_words":"{count} de {limit} palabras m\u00e1ximas.","val_recaptcha_fail_msg":"Ha fallado la verificaci\u00f3n de Google reCAPTCHA, por favor, int\u00e9ntalo de nuevo m\u00e1s tarde.","val_inputmask_incomplete":"Por favor, rellene el campo en el formato requerido.","uuid_cookie":"","locale":"es", "wpforms_plugin_url":"https:\/\/globaljuridicos.com\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/globaljuridicos .com\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","page_title":"Inicio","page_id":"19"}
+/* ]]> */
+</script>
+	</cuerpo>
+</html>
